@@ -6,3 +6,4 @@
 ![image](https://github.com/user-attachments/assets/8b1afd55-3c21-4f7a-8f9e-b25e7a425dcf)
 ![image](https://github.com/user-attachments/assets/a2072aca-2ffc-4bcf-9a1a-80ad4fc7eb0b)
 ![image](https://github.com/user-attachments/assets/f69f1e5a-f215-4224-a6c1-4348060f2d4f)
+https://github.com/Pawankumar1188/Prostate-Cancer-Prediction/edit/main/Screenshot%202025-05-23%20121106.png
